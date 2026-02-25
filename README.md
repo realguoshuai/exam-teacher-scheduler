@@ -348,8 +348,8 @@ python app.py
 ## 八、版本信息
 
 - **版本**: 1.0
-- **更新日期**: 2024年
-- **技术栈**: Flask + Python + Excel(pandas/openpyxl) + ChartJS
+- **更新日期**: 2026年
+- **技术栈**: Flask + Python + Excel + ChartJS
 
 ---
 
